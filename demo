@@ -1,20 +1,4 @@
 {
-  "Categories":
-  [
-  {
-    "category":"Adventure"
-  },{
-    "category":"Minigame"
-  },{
-    "category":"Survival"
-  },{
-    "category":"Puzzle"
-  },{
-    "category":"Creation"
-  },{
-    "category":"RedStone"
-  }
-  ],
   "Maps":
   [
     {
