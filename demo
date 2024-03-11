@@ -1,27 +1,5 @@
 {
-  "Ads": [
-      {
-      "select_main_ads": "ADMOB",
-      "select_backup_ads":"W",
-      "main_ads_banner": "ca-app-pub-5361704076926887/5871444590",
-      "main_ads_intertitial":"ca-app-pub-5361704076926887/7750081591",
-      "backup_ads_banner":"W",
-      "backup_ads_intertitial":"W",
-      "open_ads_admob":"ca-app-pub-5361704076926887/6436999928",
-      "open_ads_alien":"W",
-      "open_ads_max":"1",
-      "interval_intertitial": 1,
-      "initialize_sdk":"15779",
-      "initialize_sdk_backup_ads":"W",
-      "high_paying_keyword_1": "W",
-      "high_paying_keyword_2": "W",
-      "high_paying_keyword_3": "W",
-      "high_paying_keyword_4": "W",
-      "high_paying_keyword_5": "W",
-      "status_app": "0",
-      "link_redirect": "https://"
-    }
-  ],"Categories":
+  "Categories":
   [
   {
     "category":"Adventure"
